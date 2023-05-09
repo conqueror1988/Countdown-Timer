@@ -5,11 +5,11 @@
 
 
 //! eger kendimiz dakika girip eri sayim baslatacaksal asagidaki prompt lu ifadeyi gireriz.
-// let dakika=prompt("Lutfen dakika giriniz:");
+let dakika=prompt("Lutfen dakika giriniz:");
 
 
 //!  let dakika= 10 diye sabitlersek 10:00 dan baslar ve geriye gider.
-let dakika=10; 
+// let dakika=10; 
 let saniye=dakika * 60;
 
 const myPar = document.getElementById("par");
